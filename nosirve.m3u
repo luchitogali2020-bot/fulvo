@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ESPN Premium HD" group-title="-",ESPN Premium HD
+http://181.209.37.74:8001/play/a086/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="-",Fox Sports 2
+http://45.238.54.67:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 HD" group-title="-",Fox Sports 2 HD
+http://45.238.54.67:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 3" group-title="-",Fox Sports 3
+http://45.238.54.67:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports HD" group-title="-",Fox Sports HD
+http://45.238.54.67:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports HD" group-title="-",Tigo Sports HD
+http://45.238.54.67:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-name="TyC Sports" group-title="-",TyC Sports
+http://45.238.54.67:8000/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-name="TyC Sports HD" group-title="-",TyC Sports HD
+http://45.238.54.67:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-name="Dsport hd" group-title="-",Dsport hd
+http://179.63.6.12:9000/play/a01k
+#EXTINF:-1 tvg-name="Dsport 2" group-title="-",Dsport 2
+http://179.63.6.9:8000/play/a00f
+#EXTINF:-1 tvg-name="ESPN 5 CO" group-title="-",ESPN 5 CO
+http://217.26.190.76:8888/play/a0kh/index.m3u8
+#EXTINF:-1 tvg-name="Dsport" group-title="-",Dsport
+http://38.252.213.12:8000/play/a01k
+#EXTINF:-1 tvg-name="Espn CO" group-title="-",Espn CO
+http://38.183.182.201:8000/play/a0zv/index.m3u8
+#EXTINF:-1 tvg-name="Tnt sports" group-title="-",Tnt sports
+http://181.209.37.74:8001/play/a06z/index.m3u8
