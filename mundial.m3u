@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Canal1" tvg-name="Canal Deportivo 1" group-title="Deportes",Canal Deportivo 1
+http://181.78.67.171:8000/play/a0wy/index.m3u8
+
+#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Deportes",Win Sports
+http://190.60.48.150:8000/play/WINSPORT/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal Deportivo 2" group-title="Deportes",Canal Deportivo 2
+http://190.60.54.158:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal3" tvg-name="Canal Deportivo 3" group-title="Deportes",Canal Deportivo 3
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal4" tvg-name="Canal Deportivo 4" group-title="Deportes",Canal Deportivo 4
+http://181.119.83.235:8000/play/C052/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5" tvg-name="Canal Deportivo 5" group-title="Deportes",Canal Deportivo 5
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal6" tvg-name="Canal Deportivo 6 (Proxy)" group-title="Deportes",Canal Deportivo 6 (Proxy)
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Deportes",CazéTV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
